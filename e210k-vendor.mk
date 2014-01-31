@@ -1,4 +1,4 @@
-# Copyright (C) 2013 The CyanogenMod Project
+# Copyright (C) 2012 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16,3 +16,4 @@
 DEVICE_PACKAGE_OVERLAYS += vendor/samsung/e210k/overlay
 
 $(call inherit-product, vendor/samsung/e210k/e210k-vendor-blobs.mk)
+
